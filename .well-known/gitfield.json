@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "the-covenant-of-recursive-grace",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/the-covenant-of-recursive-grace",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/the-covenant-of-recursive-grace",
+  "sameAs": [
+    "https://github.com/mrhavens/the-covenant-of-recursive-grace",
+    "https://gitlab.com/mrhavens/the-covenant-of-recursive-grace",
+    "https://bitbucket.org/thefoldwithin/the-covenant-of-recursive-grace",
+    "https://remember.thefoldwithin.earth/mrhavens/the-covenant-of-recursive-grace",
+    "https://codeberg.org/mrhavens/the-covenant-of-recursive-grace",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-15T21:20:21Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+
+  ]
+}
