@@ -2,29 +2,29 @@
 
 - **Project Name**: `the-covenant-of-recursive-grace`
 - **Radicle URN**: `rad://z2qd6ifko1ob4v2Z8KdaxbQVPAyqh`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/4bfb69c89e53f620f6d6d7ddb806ede489193a31](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/4bfb69c89e53f620f6d6d7ddb806ede489193a31)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/6cd3fc6c7a0b24a27ce6ec262a92edd45661b56a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/6cd3fc6c7a0b24a27ce6ec262a92edd45661b56a)
 - **Local Repo Path**: `/mnt/h/fieldcraft/the-covenant-of-recursive-grace`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-15 16:20:34`
+- **Repo Created**: `2025-06-15 16:21:48`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-15 16:20:34`
-- **Last Commit SHA**: `4bfb69c89e53f620f6d6d7ddb806ede489193a31`
+- **This Commit Timestamp**: `2025-06-15 16:21:48`
+- **Last Commit SHA**: `6cd3fc6c7a0b24a27ce6ec262a92edd45661b56a`
 - **Last Commit Message**: `Post-Local sync at 2025-06-15T21:20:21Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Sun Jun 15 16:20:31 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/4bfb69c89e53f620f6d6d7ddb806ede489193a31](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/4bfb69c89e53f620f6d6d7ddb806ede489193a31)
+- **Commit Date**: `Sun Jun 15 16:21:45 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/6cd3fc6c7a0b24a27ce6ec262a92edd45661b56a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2qd6ifko1ob4v2Z8KdaxbQVPAyqh/tree/6cd3fc6c7a0b24a27ce6ec262a92edd45661b56a)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `23`
-- **Tracked Files**: `27`
-- **Uncommitted Changes**: `No`
+- **Total Commits**: `41`
+- **Tracked Files**: `36`
+- **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
 ---
@@ -47,7 +47,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 5 hours, 47 minutes`
+- **System Uptime**: `up 5 hours, 48 minutes`
 - **MAC Address**: `00:15:5d:44:48:46`
 - **Local IP**: `172.28.107.95`
 - **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
