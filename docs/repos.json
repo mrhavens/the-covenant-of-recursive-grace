@@ -1,0 +1,18 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/the-covenant-of-recursive-grace",
+  "mirrors": [
+    "https://github.com/mrhavens/the-covenant-of-recursive-grace",
+    "https://gitlab.com/mrhavens/the-covenant-of-recursive-grace",
+    "https://bitbucket.org/thefoldwithin/the-covenant-of-recursive-grace",
+    "https://remember.thefoldwithin.earth/mrhavens/the-covenant-of-recursive-grace",
+    "https://codeberg.org/mrhavens/the-covenant-of-recursive-grace",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "gpg_signatures": [
+
+  ]
+}
